@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - platform
+  - Spike
+  - PlayerBullet
+  - Tile
+  - Tile1_4off
+  - Tile1_4on
+  - Tile_off
+  - endpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - PlayerDamaged
+  - Enemy
+  - Bullet
+  - Spike
+  - Wall
+  - BossPattern_NoDamage
+  - BossPattern_YesDamage
+  - BossPattern_Tears
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - EnemyBlocker
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
