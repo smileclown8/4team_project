@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FirstBossStage.unity
+- path: Assets/Scenes/1Stage_Map.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
